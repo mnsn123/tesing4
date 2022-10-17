@@ -1,0 +1,20 @@
+{
+  "dir": "auto",
+  "name": "Your website title",
+  "short_name": "Your website title",
+  "scope": "https://monsoonmalabar.com/tesing4/",
+  "lang": "en",
+  "description": "The neighbourhood friend",
+  "icons": [
+    {
+      "src": "https://monsoonmalabar.com/tesing4/logo.png",
+      "sizes": "512x512",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#1266f1",
+  "background_color": "#fdfdfd",
+  "start_url": "https://monsoonmalabar.com/tesing4\/?external=false",
+  "display": "standalone",
+  "orientation": "natural"
+}
